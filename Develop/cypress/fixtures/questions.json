@@ -1,0 +1,13 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "choices": ["HyperText Markup Language", "Hot Mail", "How To Make Lasagna"],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "What is the purpose of CSS?",
+      "choices": ["To style content", "To serve food", "To run JavaScript"],
+      "answer": "To style content"
+    }
+  ]
+  
